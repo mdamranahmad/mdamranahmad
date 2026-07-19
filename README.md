@@ -160,9 +160,13 @@ A personal portfolio site built end-to-end through an AI-assisted development wo
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=mdamranahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdamranahmad&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdamranahmad&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mdamranahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br><br>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdamranahmad&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamranahmad&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 <!-- 
