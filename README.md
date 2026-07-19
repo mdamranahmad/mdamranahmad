@@ -6,7 +6,7 @@
 
 <!-- ============ HEADER ============ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+backend+systems...;Node.js+%7C+Express+%7C+Prisma+%7C+PostgreSQL+%2F+MongoDB;Currently+exploring+Next.js+%26+the+App+Router;Open+for+Freelance+%26+Contract+Work" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+backend+systems...;Node.js+%7C+Express+%7C+Prisma+%7C+PostgreSQL+%2F;Currently+exploring+Next.js+%26+the+App+Router;Open+for+Freelance+%26+Contract+Work" alt="Typing SVG" /></a>
 
 I design and build clean, scalable backend systems and end-to-end web applications — the kind that stay fast under load, stay easy to maintain, and let your product ship features instead of fighting bugs.
 
@@ -33,15 +33,15 @@ I like clear requirements, clean commits, and shipping things that actually work
 
 Clients and teams don't hire a developer for the code — they hire a developer to solve a business problem. Here's how I translate technical work into outcomes you actually care about:
 
-| Your Business Need                                 | What I Deliver                                                                                                                         |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚀 **"Our app feels slow"**                        | Optimized queries, proper indexing, and efficient API design to cut response times and improve user retention & conversion.            |
-| 🧱 **"Our codebase is a mess to work with"**       | Clean, modular architecture (MVC / layered / RESTful patterns) that reduces technical debt and makes future features cheaper to build. |
-| 🔗 **"We need our systems to talk to each other"** | Well-documented REST APIs and third-party integrations that connect your product to the tools your business runs on.                   |
-| 🗄️ **"Our data model doesn't scale"**              | Relational schema design (ERD-first) with proper constraints and relationships — built to grow, not just to work today.                |
-| 🎯 **"We have a business idea, not a spec"**       | I translate vague requirements into a working technical plan, then build it — keeping you updated at every milestone.                  |
-| 🛡️ **"We're worried about reliability"**           | Defensive coding, validation, and error handling so your app fails gracefully instead of taking users down with it.                    |
-| ⚡ **"We're on a tight timeline"**                  | I use AI-assisted development workflows to move faster on boilerplate and repetitive scaffolding — without cutting corners on code quality or review. |
+| Your Business Need                                 | What I Deliver                                                                                                                                        |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚀 **"Our app feels slow"**                        | Optimized queries, proper indexing, and efficient API design to cut response times and improve user retention & conversion.                           |
+| 🧱 **"Our codebase is a mess to work with"**       | Clean, modular architecture (MVC / layered / RESTful patterns) that reduces technical debt and makes future features cheaper to build.                |
+| 🔗 **"We need our systems to talk to each other"** | Well-documented REST APIs and third-party integrations that connect your product to the tools your business runs on.                                  |
+| 🗄️ **"Our data model doesn't scale"**              | Relational schema design (ERD-first) with proper constraints and relationships — built to grow, not just to work today.                               |
+| 🎯 **"We have a business idea, not a spec"**       | I translate vague requirements into a working technical plan, then build it — keeping you updated at every milestone.                                 |
+| 🛡️ **"We're worried about reliability"**           | Defensive coding, validation, and error handling so your app fails gracefully instead of taking users down with it.                                   |
+| ⚡ **"We're on a tight timeline"**                 | I use AI-assisted development workflows to move faster on boilerplate and repetitive scaffolding — without cutting corners on code quality or review. |
 
 ---
 
@@ -63,19 +63,19 @@ Clients and teams don't hire a developer for the code — they hire a developer 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white&v=1)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&v=1)
 
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&v=1)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -160,9 +160,8 @@ A personal portfolio site built end-to-end through an AI-assisted development wo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdamranahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamranahmad&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=mdamranahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdamranahmad&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdamranahmad&theme=tokyonight&hide_border=true" />
 
 </div>
